@@ -8,4 +8,4 @@ Updated: June 3, 2021
 
 ---
 
-This repository contains instructions and scripts to perform _Saccharomyces pastorianus_ annotations; also some tool to evaluate the annotation and more.
+This repository contains instructions and scripts to perform _Saccharomyces pastorianus_ annotations; also some tools to evaluate the annotation and more.
